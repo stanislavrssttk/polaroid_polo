@@ -1,1 +1,6 @@
+requirements
 
+PySide6==6.6.1
+numpy==1.26.4
+sounddevice==0.4.6
+soundfile==0.12.1
